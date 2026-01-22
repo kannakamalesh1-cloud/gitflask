@@ -1,4 +1,3 @@
-cat > .dockerignore << 'EOF'
 __pycache__/
 *.pyc
 *.pyo
@@ -19,4 +18,4 @@ docker-compose*
 .vscode
 *.log
 *.sqlite3
-EOF
+
